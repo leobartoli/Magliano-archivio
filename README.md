@@ -1,9 +1,3 @@
-Perfetto ✅
-Ecco la versione completa e migliorata del tuo README.md, ora con una sezione Docker pronta all’uso, comprensiva di docker-compose.yml e istruzioni per l’avvio del sistema locale (LLM + MinIO + ambiente Python per gli script).
-
-⸻
-
-
 # 🧠 Archivio-Semantico-AI  
 ### Classificazione Archivistica Basata su Metadati (LLM Locale)
 
