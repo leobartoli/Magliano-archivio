@@ -1,7 +1,13 @@
-Perfetto ✅
-Ecco come riscrivere **tutto il tuo piano di progetto** in forma di **repository GitHub professionale**, completo di struttura cartelle e un file `README.md` chiaro, tecnico e ben documentato — ideale per presentarlo o mantenerlo come progetto operativo del Comune.
+## 🚀 Obiettivo del Progetto
 
----
+Il progetto **Archivio-Semantico-AI** automatizza l’analisi, la classificazione e la migrazione di grandi archivi documentali (≈200.000 file) in un sistema **MinIO conforme**, distinguendo **atti ufficiali** da **bozze tecniche**.
+
+L’analisi è ibrida (OCR + AI semantica) e sfrutta:
+- **SSD NVMe** per I/O ad alte prestazioni  
+- **GPU NVIDIA (es. RTX 5090)** per OCR e inferenze  
+- **LLM (Gemini/GPT-4o)** per la classificazione semantica  
+- **MinIO** per l’archiviazione finale, con tagging e policy di retention  
+
 
 # 📁 Struttura del Repository
 
@@ -39,29 +45,7 @@ Archivio-Semantico-AI/
     ├── setup_guide.md              # Installazione e requisiti hardware
     ├── usage_examples.md           # Esempi di prompt e output
     └── retention_policy.md         # Regole di conservazione e scarto logico
-```
-
----
-
-# 📘 `README.md`
-
-````markdown
-# 🧠 Archivio Semantico AI per il Comune di Magliano in Toscana
-> Sistema di analisi semantica e migrazione intelligente di 400 GB di archivi tecnici, basato su GPU e MinIO.
-
----
-
-## 🚀 Obiettivo del Progetto
-
-Il progetto **Archivio-Semantico-AI** automatizza l’analisi, la classificazione e la migrazione di grandi archivi documentali (≈200.000 file) in un sistema **MinIO conforme**, distinguendo **atti ufficiali** da **bozze tecniche**.
-
-L’analisi è ibrida (OCR + AI semantica) e sfrutta:
-- **SSD NVMe** per I/O ad alte prestazioni  
-- **GPU NVIDIA (es. RTX 5090)** per OCR e inferenze  
-- **LLM (Gemini/GPT-4o)** per la classificazione semantica  
-- **MinIO** per l’archiviazione finale, con tagging e policy di retention  
-
----
+ 
 
 ## 🧩 Architettura in 3 Fasi
 
