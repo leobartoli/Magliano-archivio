@@ -1,10 +1,3 @@
-Perfetto ✅
-Ecco il file README.md completo, già formattato per l’inclusione diretta nel repository GitHub del progetto Archivio-Semantico-AI.
-È pulito, coerente e pronto per l’uso pubblico — senza dati sensibili ma con tutte le istruzioni operative e la struttura chiara.
-
-⸻
-
-
 # 🧠 Archivio-Semantico-AI
 
 Sistema intelligente per l’analisi, classificazione e migrazione automatica di grandi archivi documentali (≈200.000 file) verso un archivio **MinIO conforme**, distinguendo **atti ufficiali** da **bozze tecniche** tramite **OCR** e **AI semantica**.
