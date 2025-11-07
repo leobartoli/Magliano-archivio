@@ -1,4 +1,4 @@
-Certo! Ecco la riscrittura completa della soluzione, incluso lo script Python dettagliato, in formato README.md pronto per un repository GitHub. Questo documento spiega la logica e fornisce le istruzioni esatte per l'esecuzione in un ambiente Docker Compose esistente senza modificarlo.
+Certamente! Ecco il testo completo della soluzione in formato README.md, pronto per essere utilizzato in un repository GitHub, come richiesto.
 📁 MinIO Archival Initializer - Titolario Comunale
 Questo progetto fornisce uno script Python per automatizzare la creazione dell'intera struttura gerarchica (Titoli, Classi, Sottoclassi) di un Titolario di Classificazione Comunale all'interno di un'istanza MinIO.
 Il codice si basa sull'analisi dettagliata del documento "Copia di definitivo titolario classificazione con fascicoli 2021.pdf", replicandone l'esatta struttura archivistica (fino al 4° livello di classificazione) e includendo la logica per le serie speciali (come i Fascicoli del Personale).
@@ -982,8 +982,9 @@ Passo 3.1: Trova il Nome della Rete Docker
 Esegui questo comando nella directory del tuo docker-compose.yml per identificare il nome completo della rete interna (necessario per iniettare il container temporaneo):
 docker network ls | grep backend
 
-Esempio di Output: myproject_backend
-Memorizza il nome completo (ad esempio: <IL_TUO_NOME_PROGETTO>_backend).
+> Esempio di Output: myproject_backend
+> Memorizza il nome completo (ad esempio: <IL_TUO_NOME_PROGETTO>_backend).
+> 
 Passo 3.2: Esegui il Container Temporaneo
 Il comando seguente avvia un container Python, collega lo script, lo inietta nella rete (--network) e imposta le credenziali per connettersi a MinIO (minio:9000).
 Eseguilo nel tuo terminale, sostituendo i placeholder con i tuoi valori:
