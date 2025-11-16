@@ -1,0 +1,745 @@
+{
+  "T01_AMMINISTRAZIONE_GENERALE": {
+    "1-1_legislazione-e-circolari-esplicative": {
+      "1-1-1_normativa-varie": {},
+      "1-1-2_decreti-emanati-dal-sindaco": {},
+      "1-1-3_ordinanze-emanate-dal-sindaco": {},
+      "1-1-4_circolari-varie": {},
+      "1-1-5_pareri-richiesti-su-leggi-specifiche": {}
+    },
+    "1-2_denominazione-territorio-e-confini-toponomastica": {
+      "1-2-1_denominazione-del-comune": {},
+      "1-2-2_confini-del-comune": {},
+      "1-2-3_verbali-e-deliberazioni-commissione-toponomastica": {
+        "1-2-3-1_intitolazione-nuove-vie": {},
+        "1-2-3-2_richiesta-assegnazione-numero-civico": {}
+      },
+      "1-2-4_attribuzione-del-titolo-di-citta": {}
+    },
+    "1-3_statuto": {
+      "1-3-1_statuto-comunale-redazione-modifiche-e-interpretazioni": {}
+    },
+    "1-4_regolamenti": {
+      "1-4-1_regolamento-ordinamento-uffici-e-servizi": {
+        "1-4-1-1_organigramma-del-comune": {},
+        "1-4-1-2_funzionigramma-del-comune": {}
+      },
+      "1-4-2_regolamento-del-servizio-entrate": {
+        "1-4-2-1_imposta-municipale-propria-imu": {},
+        "1-4-2-2_tassa-sui-rifiuti-tari": {},
+        "1-4-2-3_imposta-comunale-sulla-pubblicita-cosap": {},
+        "1-4-2-4_addizionale-comunale-irpef": {},
+        "1-4-2-5_diritti-sulle-affissioni": {},
+        "1-4-2-6_imposta-di-soggiorno": {}
+      },
+      "1-4-3_regolamenti-del-servizio-cultura": {
+        "1-4-3-1_concessione-contributi-associazioni": {}
+      },
+      "1-4-4_regolamenti-dei-servizi-educativi": {
+        "1-4-4-1_regolamento-autorizzazione-funzionamento-prima-infanzia": {},
+        "1-4-4-2_regolamento-nidi": {},
+        "1-4-4-3_regolamento-commissione-mensa": {}
+      },
+      "1-4-5_regolamento-dei-servizi-demografici": {
+        "1-4-5-1_regolamento-comunale-matrimonio-civile": {},
+        "1-4-5-2_regolamento-di-polizia-mortuaria": {}
+      },
+      "1-4-6_regolamento-dei-servizi-sociali": {
+        "1-4-6-1_regolamento-accesso-prestazioni-agevolate": {},
+        "1-4-6-2_regolamento-poverta": {},
+        "1-4-6-3_regolamento-orti-sociali": {},
+        "1-4-6-4_regolamento-integrazione-rette": {},
+        "1-4-6-5_regolamento-duso-alloggi-erp": {},
+        "1-4-6-6_regolamento-di-taxi-sociale": {},
+        "1-4-6-7_regolamento-organizzazione-sportello-sociale": {},
+        "1-4-6-8_regolamento-servizio-assistenza-domiciliare": {},
+        "1-4-6-9_regolamento-consulta-del-volontariato": {},
+        "1-4-6-10_regolamento-concessione-di-sovvenzioni-ad-associazioni": {},
+        "1-4-6-12_regolamento-gestione-centro-diurno-anziani": {},
+        "1-4-6-13_regolamento-comitato-di-distretto": {},
+        "1-4-6-14_regolamento-centro-per-le-famiglie": {},
+        "1-4-6-15_regolamento-centro-diurno-assistenziale": {},
+        "1-4-6-16_regolamento-casa-famiglia": {},
+        "1-4-6-17_regolamento-assegni-a-sostegno-della-domiciliarita": {},
+        "1-4-6-18_regolamento-assegnazioni-alloggi-erp": {}
+      },
+      "1-4-7_regolamento-del-servizio-ambiente": {
+        "1-4-7-1_registro-benessere-animale": {},
+        "1-4-7-2_registro-servizio-gestione-rifiuti-urbani": {}
+      },
+      "1-4-8_regolamenti-per-il-funzionamento-del-consiglio-comunale": {
+        "1-4-8-1_commissione-n-1": {},
+        "1-4-8-2_commissione-n-2": {},
+        "1-4-8-3_commissione-n-3": {}
+      },
+      "1-4-9_regolamenti-generali": {
+        "1-4-9-1_regolamento-sul-trattamento-dei-dati-personali": {},
+        "1-4-9-2_nuovo-regolamento-contratti": {},
+        "1-4-9-3_regolamento-accesso-documentale": {},
+        "1-4-9-4_regolamento-alienazioni": {}
+      },
+      "1-4-10_regolamenti-del-personale": {}
+    },
+    "1-5_stemma-gonfalone-sigillo": {
+      "1-5-1_stemma-concessione-definizione-riconoscimento": {},
+      "1-5-2_gonfalone-concessione-definizione-riconoscimento": {},
+      "1-5-3_sigillo-concessione-definizione-riconoscimento": {}
+    },
+    "1-6_archivio-generale": {
+      "1-6-1_registro-di-protocollo-informatico": {},
+      "1-6-2_registro-dell-albo-pretorio": {},
+      "1-6-3_registro-delle-notifiche": {},
+      "1-6-4_registro-di-notifica-presso-la-casa-comunale": {},
+      "1-6-5_registro-di-accesso-atti-per-fini-amministrativi": {},
+      "1-6-6_repertorio-dei-fascicoli": {},
+      "1-6-7_organizzazione-del-servizio-ordinario-manuale-conservazione-etc": {},
+      "1-6-8_interventi-straordinari-traslochi-restauri-gestione-servizi": {},
+      "1-6-9_richieste-di-accesso-per-fini-amministrativi": {},
+      "1-6-10_richieste-di-informazioni-archivistiche-e-studio": {},
+      "1-6-11_richieste-di-pubblicazione-all-albo-pretorio": {},
+      "1-6-12_registro-delle-spedizioni-e-delle-spese-postali": {},
+      "1-6-13_ordinanze-emanate-dal-sindaco-repertorio": {},
+      "1-6-14_decreti-del-sindaco-repertorio": {},
+      "1-6-15_ordinanze-emanate-dai-dirigenti-repertorio": {},
+      "1-6-16_determinazione-dei-dirigenti-repertorio": {},
+      "1-6-17_deliberazione-del-consiglio-comunale-repertorio": {},
+      "1-6-18_deliberazione-della-giunta-comunale-repertorio": {},
+      "1-6-19_verbali-degli-altri-organi-collegiali-repertorio": {},
+      "1-6-20_contratti-e-convenzioni-repertorio": {},
+      "1-6-21_atti-rogati-dal-segretario-repertorio": {}
+    },
+    "1-7_sistema-informativo": {
+      "1-7-1_sistema-informativo-organizzazione": {},
+      "1-7-2_statistiche-varie": {}
+    },
+    "1-8_informazioni-e-relazioni-con-il-pubblico": {
+      "1-8-1_iniziative-specifiche-urp-informagiovane": {},
+      "1-8-2_reclami-dei-cittadini": {},
+      "1-8-3_bandi-e-avvisi-di-stampa": {},
+      "1-8-4_materiale-preparatorio-per-il-sito-web": {}
+    },
+    "1-9_politica-del-personale-ordinamenti-uffici-e-servizi": {
+      "1-9-1_attribuzioni-di-competenze-agli-uffici": {},
+      "1-9-2_organigramma-del-comune": {},
+      "1-9-3_funzionigramma-del-comune": {},
+      "1-9-4_organizzazione-degli-uffici-orari-di-apertura-uffici-comunali": {},
+      "1-9-5_orari-di-apertura-degli-uffici-e-attivita-esistenti-sul-territorio-comunale": {},
+      "1-9-6_materiale-preparatorio-per-le-deliberazioni-materia-di-politica-del-personale": {}
+    },
+    "1-10_relazioni-con-le-organizzazioni-sindacali": {
+      "1-10-1_verbali-della-delegazione-trattante-per-la-contrattazione-integrativa": {},
+      "1-10-2_rapporti-di-carattere-generale": {},
+      "1-10-3_costituzione-delle-rappresentanze-del-personale": {}
+    },
+    "1-11_controlli-esterni-interni": {
+      "1-11-1_controlli-specifici": {}
+    },
+    "1-12_editoria-e-attivita-informativo-promozionale": {
+      "1-12-1_pubblicazioni-istituzionali-del-comune-raccolta-bibliografica": {},
+      "1-12-2_comunicati-stampa": {}
+    },
+    "1-13_cerimoniale-attivita-di-rappresentanza-onorificenze": {
+      "1-13-1_iniziative-specifiche": {},
+      "1-13-2_onorificenze-concesse-e-ricevute": {},
+      "1-13-3_concessione-dell-uso-del-sigillo": {}
+    },
+    "1-14_interventi-di-carattere-politico-e-umanitario-rapporti-istituzionali": {
+      "1-14-1_iniziative-specifiche-gemellaggi-adesione-movimenti-opinione": {},
+      "1-14-2_gemellaggi": {},
+      "1-14-3_promozione-di-comitati": {}
+    },
+    "1-15_forme-associative-partecipative-e-adesioni": {
+      "1-15-1_costituzione-di-enti-controllati-dal-comune": {},
+      "1-15-2_partecipazione-del-comune-a-enti-e-associazioni": {}
+    },
+    "1-16_aree-e-citta-metropolitane": {
+      "1-16-1_costituzione-e-rapporti-istituzionali": {}
+    },
+    "1-17_associazionismo-e-partecipazione": {
+      "1-17-1_associazioni-che-richiedono-iscrizione-all-albo": {},
+      "1-17-2_albo-delle-associazioni": {}
+    }
+  },
+  "T02_ORGANI_GOVERNO_GESTIONE_CONTROLLO_CONSULENZA_E_GARANZIA": {
+    "2-1_sindaco": {
+      "2-1-1_fascicolo-personale-durata-mandato": {}
+    },
+    "2-2_vice-sindaco": {
+      "2-2-1_fascicolo-personale-durata-mandato": {}
+    },
+    "2-3_consiglio": {
+      "2-3-1_fascicolo-personale-durata-mandato": {},
+      "2-3-2_convocazione-del-consiglio-comunale-e-odg": {},
+      "2-3-3_interrogazioni-e-mozioni-consiliari": {},
+      "2-3-4_situazione-patrimoniale-titolari-di-cariche-elettive": {},
+      "2-3-5_accesso-atti-consiglieri-comunali": {}
+    },
+    "2-4_presidente-del-consiglio": {
+      "2-4-1_fascicolo-personale-durata-mandato": {}
+    },
+    "2-5_conferenza-dei-capigruppo-e-commissioni-del-consiglio": {
+      "2-5-1_verbali-della-conferenza-dei-capigruppo": {},
+      "2-5-2_verbale-delle-commissioni": {}
+    },
+    "2-6_gruppi-consiliari": {
+      "2-6-1_accreditamento-presso-il-consiglio": {}
+    },
+    "2-7_giunta": {
+      "2-7-1_nomine-revoche-e-dimissioni-degli-assessori": {},
+      "2-7-2_convocazione-della-giunta-e-odg": {}
+    },
+    "2-8_commissario-prefettizio-e-straordinario": {
+      "2-8-1_fascicolo-personale": {}
+    },
+    "2-9_segretario-e-vice-segretario": {
+      "2-9-1_fascicolo-personale-durata-incarico": {}
+    },
+    "2-10_direttore-generale-e-dirigenza": {
+      "2-10-1_fascicolo-personale-durata-incarico": {}
+    },
+    "2-11_revisori-dei-conti": {
+      "2-11-1_fascicolo-personale-durata-incarico": {},
+      "2-11-2_relazioni-repertorio-annuale": {}
+    },
+    "2-12_difensore-civico": {
+      "2-12-1_fascicolo-personale-durata-incarico": {}
+    },
+    "2-13_commissario-ad-acta": {
+      "2-13-1_fascicolo-personale-durata-incarico": {}
+    },
+    "2-14_organi-di-controllo-interni": {
+      "2-14-1_un-fascicolo-per-ogni-organo": {}
+    },
+    "2-15_organi-consultivi": {
+      "2-15-1_fascicoli-relativi-al-funzionamento": {},
+      "2-15-2_relazione-degli-organi-consuntivi": {}
+    },
+    "2-16_consigli-circoscrizionali": {},
+    "2-17_presidente-dei-consigli-circoscrizionali": {},
+    "2-18_organi-esecutivi-circoscrizionali": {},
+    "2-19_commissioni-dei-consigli-circoscrizionali": {},
+    "2-20_segretari-delle-circoscrizioni": {},
+    "2-21_commissario-ad-acta-delle-circoscrizioni": {},
+    "2-22_conferenza-del-presidente-di-quartiere": {}
+  },
+  "T03_RISORSE_UMANE": {
+    "3-1_concorsi-selezione-colloqui": {
+      "3-1-1_criteri-generali-e-normativa-per-il-reclutamento": {},
+      "3-1-2_procedimenti-per-il-reclutamento-del-personale": {},
+      "3-1-3_curriculum-vitae-inviati-per-richieste-di-assunzione": {},
+      "3-1-4_domande-di-assunzione-pervenute-senza-indizione-di-concorso": {}
+    },
+    "3-2_assunzioni-e-cessazioni": {
+      "3-2-1_criteri-generali-e-normativa-per-le-assunzioni-e-cessazioni": {},
+      "3-2-2_determinazioni-di-assunzioni-e-cessazione-dei-singoli": {}
+    },
+    "3-3_comandi-distacchi-mobilita": {
+      "3-3-1_criteri-generali-e-normativa-per-comandi-distacchi-e-mobilita": {},
+      "3-3-2_determinazioni-di-comandi-distacchi-mobilita-inserite-nei-fascicoli-personali": {}
+    },
+    "3-4_attribuzione-di-funzioni-ordini-di-servizio-e-missioni": {
+      "3-4-1_criteri-generali-e-normativa-per-le-attribuzioni-di-funzioni": {},
+      "3-4-2_determinazioni-di-attribuzione-di-funzioni-inserite-nei-fascicoli-personali": {},
+      "3-4-3_determinazioni-di-missioni-inserite-nei-fascicoli-personali": {},
+      "3-4-4_determinazione-di-ordini-di-servizio-inserite-nei-fascicoli-personali": {},
+      "3-4-5_determinazione-di-autorizzazione-allo-svolgimento-di-incarichi-esterni": {}
+    },
+    "3-5_inquadramenti-applicazione-dei-ccnl": {
+      "3-5-1_criteri-generali-e-normativa-per-gli-inquadramenti": {},
+      "3-5-2_determinazione-dei-ruoli-e-contratti-collettivi": {},
+      "3-5-3_determinazioni-relative-ai-singoli-inserire-nei-rispettivi-fascicoli-personali": {}
+    },
+    "3-6_retribuzioni-e-compensi": {
+      "3-6-1_criteri-generali-e-normativi-per-le-retribuzioni-e-compensi": {},
+      "3-6-2_anagrafe-delle-prestazioni-base-di-dati": {},
+      "3-6-3_determinazioni-inserite-nei-singoli-fascicoli-personali": {},
+      "3-6-4_ruoli-degli-stipendi": {},
+      "3-6-5_provvedimenti-giudiziari-su-requisizione-dello-stipendio": {},
+      "3-6-6_indennita-di-funzione-degli-amministratori": {},
+      "3-6-7_rimborso-oneri-per-permessi-amministratori": {},
+      "3-6-8_missioni-amministratori": {},
+      "3-6-9_gettoni-di-presenza": {},
+      "3-6-10_valutazione-dirigenti": {},
+      "3-6-11_pagamento-compensi-incentivanti-ufficio-legale": {},
+      "3-6-12_determinazioni-relativi-ai-singoli-per-la-definizione-delle-voci-accessorie": {}
+    },
+    "3-7_trattamento-fiscale-contributivo-e-assicurativo": {
+      "3-7-1_criteri-generali-e-normativi-per-gli-adempimenti-fiscali-contributivi": {},
+      "3-7-2_trattamento-assicurativo-inserito-nei-singoli-fascicoli-personali": {},
+      "3-7-3_trattamento-contributivo-inserito-nei-singoli-fascicoli-personali": {},
+      "3-7-4_trattamento-fiscale-inserito-nei-singoli-fascicoli-personali": {},
+      "3-7-5_assicurazione-obbligatoria-inserita-nei-singoli-fascicoli-personali": {}
+    },
+    "3-8_tutela-della-salute-e-sicurezza-sul-luogo-di-lavoro": {
+      "3-8-1_criteri-generali-e-normativa-per-la-tutela-della-salute-e-sicurezza": {},
+      "3-8-2_rilevazione-dei-rischi": {},
+      "3-8-3_prevenzione-infortuni": {},
+      "3-8-4_registro-infortuni": {},
+      "3-8-5_verbali-delle-rappresentanze-dei-lavoratori-per-la-sicurezza": {},
+      "3-8-6_denuncia-di-infortunio-e-pratica-relativa-inserita-nei-fascicoli-personali": {},
+      "3-8-7_fascicoli-relativi-alle-visite-mediche-ordinarie": {}
+    },
+    "3-9_dichiarazione-di-infermita-ed-equo-indennizzo": {
+      "3-9-1_criteri-generali-e-normative-per-la-dichiarazione-di-infermita": {},
+      "3-9-2_dichiarazione-di-infermita-e-calcolo-dell-indennizzo-inserite-nel-fascicolo-personale": {}
+    },
+    "3-10_indennita-premio-di-servizio-tfr-quiescenza": {
+      "3-10-1_criteri-generali-e-normativa-per-il-trattamento-di-fine-rapporto": {},
+      "3-10-2_trattamento-pensionistico-e-di-fine-rapporto-inserito-nel-fascicolo-personale": {}
+    },
+    "3-11_servizi-al-personale-su-richiesta": {
+      "3-11-1_criteri-generali-e-normativa-per-i-servizi-su-richiesta": {},
+      "3-11-2_domande-di-servizi-su-richiesta-mensa-asilo-nido-centri-estivi": {}
+    },
+    "3-12_orario-di-lavoro-presenza-e-assenze": {
+      "3-12-1_criteri-generali-e-normative-per-le-assenze": {},
+      "3-12-2_domande-e-dichiarazioni-sull-orario-inserito-nel-fascicolo-personale": {},
+      "3-12-3_150-ore-diritto-allo-studio-inserito-nel-fascicolo-personale": {},
+      "3-12-4_permessi-d-uscita-per-motivi-personali-inserito-nel-fascicolo-personale": {},
+      "3-12-5_permessi-per-allattamento-inserito-nel-fascicolo-personale": {},
+      "3-12-6_permessi-per-donazione-sangue-inserito-nel-fascicolo-personale": {},
+      "3-12-7_permessi-per-motivi-sindacali-inserito-nel-fascicolo-personale": {},
+      "3-12-8_opzioni-per-orario-particolare-part-time-inserito-nel-fascicolo-personale": {},
+      "3-12-9_congedo-ordinario-inserito-nel-fascicolo-personale": {},
+      "3-12-10_congedo-straordinario-per-motivi-di-salute-inserito-nel-fascicolo-personale": {},
+      "3-12-11_congedo-straordinario-per-motivi-personali-e-familiari-inserito-nel-fascicolo-personale": {},
+      "3-12-12_aspettativa-per-infermita-inserito-nel-fascicolo-personale": {},
+      "3-12-13_aspettativa-per-mandato-parlamentare-o-altre-cariche-elettive-inserito-nel-fascicolo-personale": {},
+      "3-12-14_aspettativa-obbligatoria-per-maternita-e-puerperio-inserito-nel-fascicolo-personale": {},
+      "3-12-15_aspettativa-facoltativa-per-motivi-di-famiglia-inserito-nel-fascicolo-personale": {},
+      "3-12-16_aspettativa-sindacale-inserito-nel-fascicolo-personale": {},
+      "3-12-17_certificati-medici-inserito-nel-fascicolo-personale": {},
+      "3-12-18_referti-delle-visite-di-controllo-inseriti-nel-fascicolo-personale": {},
+      "3-12-19_fogli-firma-marcatempo-tabulati-elettronici-di-rilevazione-presenze": {},
+      "3-12-20_rilevazioni-dell-assenza-per-sciopero": {}
+    },
+    "3-13_giudizi-responsabilita-e-provvedimenti-disciplinari": {
+      "3-13-1_criteri-generali-e-normative-per-i-provvedimenti-disciplinari": {},
+      "3-13-2_provvedimenti-disciplinari-inseriti-nel-singolo-fascicolo-personale": {}
+    },
+    "3-14_formazione-aggiornamento-professionale": {
+      "3-14-1_criteri-generali-e-normativi-per-la-formazione-e-l-aggiornamento": {},
+      "3-14-2_organizzazione-di-corsi-di-formazione-e-aggiornamento": {},
+      "3-14-3_domande-invio-dei-dipendenti-a-corsi-inseriti-nel-singolo-fascicolo-personale": {}
+    },
+    "3-15_collaboratori-esterni": {
+      "3-15-1_criteri-generali-e-normative-per-il-trattamento-dei-collaboratori-esterni": {},
+      "3-15-2_elenco-degli-incarichi-conferiti": {}
+    }
+  },
+  "T04_RISORSE_FINANZIARIE_E_PATRIMONIALI": {
+    "4-1_bilancio-preventivo-e-peg": {
+      "4-1-1_bilancio-preventivo-e-allegati": {},
+      "4-1-2_peg-piano-esecutivo-di-gestione": {},
+      "4-1-3_carteggio-uffici-per-formazione-bilancio-e-peg": {}
+    },
+    "4-2_gestione-del-bilancio-e-del-peg-con-variazioni": {
+      "4-2-1_gestione-del-bilancio-un-fascicolo-per-ciascuna-variazione": {}
+    },
+    "4-3_gestione-delle-entrate-accertamento-riscossione-versamento": {
+      "4-3-1_fascicoli-personali-dei-contribuenti-comunali": {},
+      "4-3-2_ruolo-ici": {},
+      "4-3-3_ruolo-imposta-comunale-sulla-pubblicita": {},
+      "4-3-4_contratti-di-accensione-mutui": {},
+      "4-3-5_ruolo-diritti-sulle-pubbliche-affissioni": {},
+      "4-3-6_ruolo-tarsu": {},
+      "4-3-7_ruolo-cosap": {},
+      "4-3-8_proventi-da-affitti-e-locazioni": {},
+      "4-3-9_diritti-di-segreteria": {},
+      "4-3-10_matrici-dei-bollettini-delle-entrate": {},
+      "4-3-11_ricevute-dei-versamenti-in-banca-per-diritti-di-segreteria": {},
+      "4-3-12_fatture-emesse-repertorio-annuale": {},
+      "4-3-13_reversali-repertorio-annuale": {},
+      "4-3-14_bollettari-vari-repertori-annuali": {},
+      "4-3-15_ricevute-di-pagamenti-vari": {}
+    },
+    "4-4_gestione-della-spesa-impegni-liquidazione-ordinazione-pagamento": {
+      "4-4-1_impegni-di-spesa": {},
+      "4-4-2_fatture-ricevute-repertorio-annuale": {},
+      "4-4-3_atti-di-liquidazione-con-allegati-repertorio-annuale": {},
+      "4-4-4_eventuali-copie-di-mandati-repertorio-annuale": {},
+      "4-4-5_spese-postali": {},
+      "4-4-6_tracciabilita-e-durc": {}
+    },
+    "4-5_partecipazioni-finanziarie": {
+      "4-5-1_gestione-delle-partecipazioni": {}
+    },
+    "4-6_rendiconto-della-gestione-adempimenti-e-verifiche-contabili": {
+      "4-6-1_rendiconto-della-gestione-conto-bilancio-patrimonio-economico": {}
+    },
+    "4-7_adempimenti-fiscali-contributivi-assicurativi": {
+      "4-7-1_modello-770": {},
+      "4-7-2_ricevute-dei-versamenti-iva-irpef-ect": {},
+      "4-7-3_pagamento-dei-premi-dei-contratti-assicurativi": {}
+    },
+    "4-8_beni-immobili": {
+      "4-8-1_inventario-dei-beni-immobili": {},
+      "4-8-2_fascicoli-dei-beni-immobili": {},
+      "4-8-3_concessione-di-occupazione-di-spazi-e-aree-pubbliche": {},
+      "4-8-4_concessione-di-beni-del-demanio-statale": {},
+      "4-8-5_concessioni-cimiteriali": {},
+      "4-8-6_fascicoli-personali-dei-concessionari": {}
+    },
+    "4-9_beni-mobili": {
+      "4-9-1_inventario-dei-beni-mobili": {},
+      "4-9-2_fascicoli-dei-beni-mobili": {}
+    },
+    "4-10_economato": {
+      "4-10-1_acquisizione-di-beni-e-servizi": {},
+      "4-10-2_elenco-dei-fornitori": {}
+    },
+    "4-11_oggetti-smarriti-e-recuperati": {
+      "4-11-1_verbali-di-rinvenimento": {},
+      "4-11-2_ricevute-di-riconsegna-ai-proprietari": {},
+      "4-11-3_vendita-o-devoluzione": {}
+    },
+    "4-12_tesoreria": {
+      "4-12-1_giornale-di-cassa": {},
+      "4-12-2_mandati-quietanziati": {}
+    },
+    "4-13_concessionari-e-altri-incarichi-della-riscossione-delle-entrate": {
+      "4-13-1_concessionari": {}
+    },
+    "4-14_pubblicita-e-pubbliche-affissioni": {
+      "4-14-1_autorizzazione-alla-pubblicita-stabile": {},
+      "4-14-2_autorizzazione-alla-pubblicita-circoscritta": {},
+      "4-14-3_richieste-di-affissione-con-allegati": {}
+    }
+  },
+  "T05_AFFARI_GENERALI": {
+    "5-1_contenzioso": {
+      "5-1-1_fascicolo-di-causa-civili-amministrative-penali-tributarie": {}
+    },
+    "5-2_responsabilita-civile-patrimoniale-verso-terzi-assicurazioni": {
+      "5-2-1_contratti-assicurativi": {},
+      "5-2-2_richieste-pratiche-di-risarcimento": {}
+    },
+    "5-3_pareri-e-consulenze": {
+      "5-3-1_pareri-e-consulenze-specifiche": {}
+    }
+  },
+  "T06_PIANIFICAZIONE_GESTIONE_DEL_TERRITORIO": {
+    "6-1_urbanistica-prg-variazioni": {
+      "6-1-1_prg-piano-regolatore-generale": {},
+      "6-1-2_pareri-su-piani-sovracomunali": {},
+      "6-1-3_certificati-di-destinazione-urbanistica": {},
+      "6-1-4_variante-al-prg": {}
+    },
+    "6-2_urbanistica-strumenti-di-attuazione-del-prg": {
+      "6-2-1_piani-particolareggiati-del-prg": {},
+      "6-2-2_piani-di-lottizzazione": {},
+      "6-2-3_piani-di-edilizia-economica-e-popolare-peep": {},
+      "6-2-4_piano-particolareggiato-infrastrutture-stradali-ppis": {},
+      "6-2-5_piano-di-riqualificazione-urbana-pru": {},
+      "6-2-6_piano-insediamenti-produttivi-pip": {},
+      "6-2-7_programma-integrato-riqualificazione-urbanistica-edilizia-ambientale-piruea": {},
+      "6-2-8_programma-riqualificazione-urbana-e-sviluppo-sostenibile-del-territorio": {},
+      "6-2-9_piano-di-assetto-territoriale-del-comune-pat": {},
+      "6-2-10_piano-degli-interventi-pi": {},
+      "6-2-11_piano-di-assetto-territoriale-intercomunale-pati": {},
+      "6-2-12_piano-di-riqualificazione-urbana-e-di-sviluppo-sostenibile-prrust": {}
+    },
+    "6-3_edilizia-privata": {
+      "6-3-1_autorizzazione-edilizia-repertorio": {},
+      "6-3-2_fascicoli-dei-richiedenti-le-autorizzazioni": {},
+      "6-3-3_accertamento-e-repressione-degli-abusi": {},
+      "6-3-4_denunce-e-relazioni-finali-delle-opere-in-cemento-armato": {},
+      "6-3-5_abusi-edilizi": {}
+    },
+    "6-4_edilizia-pubblica": {
+      "6-4-1_costruzione-di-edilizia-popolare": {}
+    },
+    "6-5_opere-pubbliche": {
+      "6-5-1_realizzazione-di-opere-pubbliche": {},
+      "6-5-2_manutenzione-ordinaria": {},
+      "6-5-3_manutenzione-straordinaria": {}
+    },
+    "6-6_catasto": {
+      "6-6-1_catasto-terreni-mappe": {},
+      "6-6-2_catasto-terreni-registri": {},
+      "6-6-3_catasto-terreni-indice-alfabetico-dei-possessori": {},
+      "6-6-4_catasto-terreni-estratti-catastali": {},
+      "6-6-5_catasto-terreni-denunce-variazione-volture": {},
+      "6-6-6_catasto-fabbricati-mappe": {},
+      "6-6-7_catasto-fabbricati-registri": {},
+      "6-6-8_catasto-fabbricati-indice-alfabetico-dei-possessori": {},
+      "6-6-9_catasto-fabbricati-estratti-catastali": {},
+      "6-6-10_catasto-fabbricati-denunce-variazione-volture": {},
+      "6-6-11_richieste-di-visure-e-certificati": {}
+    },
+    "6-7_viabilita": {
+      "6-7-1_piano-urbano-del-traffico": {},
+      "6-7-2_piano-urbano-della-mobilita": {},
+      "6-7-3_autorizzazione-in-deroga": {}
+    },
+    "6-8_servizio-idrico-integrato-luce-gas-trasporti-rifiuti-e-altri-servizi": {
+      "6-8-1_approvvigionamento-idrico-organizzazione-funzionamento": {},
+      "6-8-2_iniziative-a-favore-dell-ambiente": {},
+      "6-8-3_distribuzione-dell-acqua": {},
+      "6-8-4_produzione-di-energia-elettrica-o-altre-fonti-energetiche": {},
+      "6-8-5_trasporti-pubblici": {},
+      "6-8-6_vigilanza-sui-gestori-dei-servizi": {},
+      "6-8-7_fascicoli-relativi-alle-irregolarita": {},
+      "6-8-8_dichiarazione-di-conformita-degli-impianti": {}
+    },
+    "6-9_ambiente-autorizzazioni-monitoraggio-controllo": {
+      "6-9-1_valutazione-pareri-di-impatto-ambientale": {},
+      "6-9-2_monitoraggi-della-qualita-delle-acque": {},
+      "6-9-3_monitoraggi-della-qualita-dell-aria": {},
+      "6-9-4_monitoraggi-della-qualita-dell-etere": {},
+      "6-9-5_altri-eventuali-monitoraggi": {},
+      "6-9-6_controlli-a-campione-sugli-impianti-termici-dei-privati": {},
+      "6-9-7_fascicoli-relativi-alle-irregolarita": {}
+    },
+    "6-10_protezione-civile-ed-emergenze": {
+      "6-10-1_segnalazioni-preventive-di-condizioni-metereologiche-avverse": {},
+      "6-10-2_addestramento-ed-esercitazioni-per-la-protezione-civile": {},
+      "6-10-3_interventi-per-emergenze": {}
+    }
+  },
+  "T07_SERVIZI_ALLA_PERSONA": {
+    "7-1_diritto-allo-studio-e-servizi": {
+      "7-1-1_concessione-di-borse-di-studio": {},
+      "7-1-2_distribuzione-buoni-libro": {},
+      "7-1-3_gestione-buoni-pasto-degli-iscritti-alle-scuole": {},
+      "7-1-4_verbali-del-comitato-genitori-per-la-mensa": {},
+      "7-1-5_azioni-di-promozione-sostegno-del-diritto-allo-studio": {},
+      "7-1-6_gestione-mense-scolastiche": {},
+      "7-1-7_gestione-trasporto-scolastico": {}
+    },
+    "7-2_asilo-e-scuola-materna": {
+      "7-2-1_domande-di-ammissione-all-asilo-nido": {},
+      "7-2-2_graduatorie-di-ammissione": {},
+      "7-2-3_funzionamento-dell-asilo": {}
+    },
+    "7-3_promozione-sostegno-istituzioni-di-istruzione-e-loro-attivita": {
+      "7-3-1_iniziative-specifiche": {},
+      "7-3-2_registri-scolastici-prodotti-dalle-scuole-civiche": {}
+    },
+    "7-4_orientamento-professionale-educazione-degli-adulti-meditazione": {
+      "7-4-1_iniziative-specifiche": {}
+    },
+    "7-5_istituti-culturali-biblioteche-teatri": {
+      "7-5-1_funzionamento-delle-diverse-istituzioni-culturali": {},
+      "7-5-2_verbali-degli-organi-di-gestione-degli-istituti-culturali": {}
+    },
+    "7-6_attivita-ed-eventi-culturali": {
+      "7-6-1_attivita-ordinarie-annuali": {},
+      "7-6-2_eventi-culturali": {},
+      "7-6-3_feste-civili-o-religiose": {},
+      "7-6-4_iniziative-culturali": {},
+      "7-6-5_prestiti-di-beni-culturali": {}
+    },
+    "7-7_attivita-ed-eventi-sportivi": {
+      "7-7-1_eventi-attivita-sportive": {}
+    },
+    "7-8_pianificazione-accordi-strategici-volontariato-sociale": {
+      "7-8-1_piano-sociale": {},
+      "7-8-2_programmazione-per-settore": {},
+      "7-8-3_accordi-con-differenti-soggetti": {}
+    },
+    "7-9_prevenzione-recupero-e-reintegrazione-dei-soggetti-a-rischio": {
+      "7-9-1_campagna-di-prevenzione": {},
+      "7-9-2_interventi-di-recupero-e-reintegrazione-dei-soggetti-a-rischio": {},
+      "7-9-3_ricognizione-dei-rischi": {}
+    },
+    "7-10_informazione-consulenza-educazione-civica": {
+      "7-10-1_funzionamento-attivita-delle-strutture": {},
+      "7-10-2_iniziative-di-vario-tipo": {}
+    },
+    "7-11_tutela-e-curatela-di-incapaci": {
+      "7-11-1_interventi-per-le-persone-sottoposte-a-tutela-e-curatela": {}
+    },
+    "7-12_assistenza-diretta-indiretta-benefici-economici": {
+      "7-12-1_funzionalmente-attivita-delle-strutture": {}
+    },
+    "7-13_attivita-ricettive-e-di-socializzazione": {
+      "7-13-1_funzionamento-attivita-delle-strutture": {}
+    },
+    "7-14_politiche-per-la-casa": {
+      "7-14-1_assegnazione-degli-alloggi": {},
+      "7-14-2_fascicolo-degli-assegnatari": {}
+    },
+    "7-15_politiche-per-il-sociale": {
+      "7-15-1_iniziative-specifiche": {}
+    }
+  },
+  "T08_ATTIVITA_ECONOMICHE": {
+    "8-1_agricoltura-e-pesca": {
+      "8-1-1_iniziative-specifiche": {},
+      "8-1-2_dichiarazioni-raccolte-produzione": {}
+    },
+    "8-2_artigianato": {
+      "8-2-1_iniziative-specifiche": {},
+      "8-2-2_autorizzazione-artigiani-repertorio": {}
+    },
+    "8-3_industria": {
+      "8-3-1_iniziative-specifiche": {}
+    },
+    "8-4_commercio": {
+      "8-4-1_iniziative-specifiche": {},
+      "8-4-2_comunicazioni-dovute": {},
+      "8-4-3_autorizzazioni-commerciali-repertorio": {},
+      "8-4-4_autorizzazioni-artigianali-repertorio": {},
+      "8-4-5_autorizzazioni-commerciali-repertorio-bis": {},
+      "8-4-6_autorizzazioni-turistiche-repertorio": {}
+    },
+    "8-5_fiere-e-mercati": {
+      "8-5-1_iniziative-specifiche": {}
+    },
+    "8-6_esercizi-turistici-e-strutture-ricettive": {
+      "8-6-1_iniziative-specifiche": {},
+      "8-6-2_autorizzazioni-turistiche-repertorio": {}
+    },
+    "8-7_promozione-servizi": {
+      "8-7-1_iniziative-specifiche": {}
+    }
+  },
+  "T09_POLIZIA_LOCALE_E_LA_SICUREZZA_PUBBLICA": {
+    "9-1_prevenzione-ed-educazione-stradale": {
+      "9-1-1_iniziative-specifiche-di-prevenzione": {},
+      "9-1-2_corsi-di-educazione-stradale-nelle-scuole": {}
+    },
+    "9-2_polizia-stradale": {
+      "9-2-1_direttiva-a-disposizione": {},
+      "9-2-2_organizzazione-del-servizio-di-pattugliamento": {},
+      "9-2-3_verbali-di-accertamento-di-violazione-al-codice-della-strada": {},
+      "9-2-4_accertamento-di-violazione-e-irrogazione-di-sanzione": {},
+      "9-2-5_verbali-di-rilevazione-incidenti": {},
+      "9-2-6_statistiche-delle-violazioni-e-degli-incidenti": {},
+      "9-2-7_gestione-veicoli-rimossi": {}
+    },
+    "9-3_informative": {
+      "9-3-1_informative-su-persone-residenti-nel-comune": {}
+    },
+    "9-4_sicurezza-e-ordine-pubblico": {
+      "9-4-1_direttive-disposizione-generale": {},
+      "9-4-2_servizio-ordinario-di-pubblica-sicurezza": {},
+      "9-4-3_servizio-straordinario-di-pubblica-sicurezza-eventi-particolari": {}
+    }
+  },
+  "T10_TUTELA_DELLA_SALUTE": {
+    "10-1_salute-e-igiene-pubblica": {
+      "10-1-1_emergenze-sanitarie": {},
+      "10-1-2_misure-d-igiene-pubblica": {},
+      "10-1-3_interventi-di-derattizzazione-di-zanzarizzazione-ect": {},
+      "10-1-4_trattamenti-fitosanitari-e-di-disinfestazione": {},
+      "10-1-5_autorizzazioni-sanitarie-repertorio-annuale": {},
+      "10-1-6_autorizzazione-di-concessioni-di-agibilita-repertorio-annuale": {},
+      "10-1-7_fascicoli-dei-richiedenti-autorizzazione-sanitarie": {},
+      "10-1-8_fascicoli-dei-richiedenti-agibilita": {}
+    },
+    "10-2_trattamenti-sanitari-obbligatori": {
+      "10-2-1_tso-trattamento-sanitario-obbligatorio": {},
+      "10-2-2_aso-accertamento-sanitario-obbligatorio": {},
+      "10-2-3_fascicoli-personali-dei-soggetti-a-trattamenti": {}
+    },
+    "10-3_farmacie": {
+      "10-3-1_istituzioni-di-farmacie": {},
+      "10-3-2_funzionamento-delle-farmacie": {}
+    },
+    "10-4_zooprofilassi-veterinaria": {
+      "10-4-1_fascicolo-relativi-a-epizoozie-epidemie-animali": {}
+    },
+    "10-5_randagismo-animale-e-ricoveri": {
+      "10-5-1_gestione-dei-ricoveri-e-degli-eventi-connessi": {},
+      "10-5-2_verbali-degli-accertamenti-nei-diversi-settori": {}
+    }
+  },
+  "T11_SERVIZI_DEMOGRAFICI": {
+    "11-1_stato-civile": {
+      "11-1-1_registro-dei-nati": {},
+      "11-1-2_registro-dei-morti": {},
+      "11-1-3_repertorio-dei-matrimoni": {},
+      "11-1-4_registro-di-cittadinanza": {},
+      "11-1-5_altri-allegati-per-registrazioni": {},
+      "11-1-6_registro-della-popolazione": {},
+      "11-1-7_registro-della-distribuzione-topografica-delle-tombe-con-schede-onomastiche": {},
+      "11-1-8_atti-per-annotazioni-sui-registri-di-stato-civile": {},
+      "11-1-9_comunicazione-dei-nati-all-agenzia-delle-entrate": {}
+    },
+    "11-2_anagrafe-certificazioni": {
+      "11-2-1_apr4-iscrizioni-anagrafiche": {},
+      "11-2-2_aire-anagrafe-italiani-residenti-all-estero": {},
+      "11-2-3_richieste-certificati": {},
+      "11-2-4_corrispondenza-con-le-altre-amministrazioni": {},
+      "11-2-5_cartellini-per-carta-d-identita": {},
+      "11-2-6_carta-d-identita-scaduta-e-riconsegnate": {},
+      "11-2-7_cambio-di-abitazione-residenza": {},
+      "11-2-8_cancellazioni": {},
+      "11-2-9_carteggio-con-la-corte-d-appello-per-la-formazione-degli-albi-giudici-popolari": {},
+      "11-2-10_registro-della-popolazione-su-base-di-dati": {}
+    },
+    "11-3_censimenti": {
+      "11-3-1_schedoni-statistici-del-censimento": {},
+      "11-3-2_atti-preparatori-organizzativi": {}
+    },
+    "11-4_polizia-mortuaria-cimiteri": {
+      "11-4-1_registri-di-seppellimento": {},
+      "11-4-2_registri-di-tumulazione": {},
+      "11-4-3_registri-di-esumazioni": {},
+      "11-4-4_registri-di-estumulazione": {},
+      "11-4-5_registri-di-cremazione": {},
+      "11-4-6_registri-della-distribuzione-topografica-delle-tombe-con-schede-onomastica": {},
+      "11-4-7_trasferimento-delle-salme": {}
+    }
+  },
+  "T12_ELEZIONI_INIZIATIVE_POPOLARI": {
+    "12-1_albi-elettorali": {
+      "12-1-1_albo-dei-presidenti-di-seggio": {},
+      "12-1-2_albo-degli-scrutatori": {},
+      "12-1-3_verbali-della-commissione-elettorale-comunale": {},
+      "12-1-4_verbali-dei-presidenti-di-seggio": {}
+    },
+    "12-2_liste-elettorali": {
+      "12-2-1_liste-generali": {},
+      "12-2-2_liste-sezionali": {},
+      "12-2-3_verbali-della-commissione-elettorale-mandamentale": {},
+      "12-2-4_schede-dello-schedario-generale": {},
+      "12-2-5_schede-degli-schedari-sezionali": {},
+      "12-2-6_fascicoli-personali-degli-elettori": {},
+      "12-2-7_elenchi-recanti-le-proposte-di-variazione-delle-liste-elettorali": {},
+      "12-2-8_carteggio-concernente-la-tenuta-e-la-rilevazione-delle-liste-elettorali": {}
+    },
+    "12-3_elezioni": {
+      "12-3-1_convocazione-dei-comizi-elettorali": {},
+      "12-3-2_presentazione-delle-liste-manifesto": {},
+      "12-3-3_presentazione-delle-liste-carteggio": {},
+      "12-3-4_atti-relativi-alla-costituzione-e-arredamento-dei-seggi": {},
+      "12-3-5_verbali-dei-presidenti-di-seggio": {},
+      "12-3-6_schede": {},
+      "12-3-7_pacchi-scorta-elezioni": {},
+      "12-3-8_certificati-elettorali-non-ritirati": {},
+      "12-3-9_istruzioni-elettorali-a-stampa": {}
+    },
+    "12-4_referendum": {
+      "12-4-1_atti-preparatori": {},
+      "12-4-2_atti-relativi-alla-costituzione-arredamento-dei-seggi": {},
+      "12-4-3_verbali-dei-presidenti-di-seggio": {},
+      "12-4-4_schede": {}
+    },
+    "12-5_istanze-petizione-iniziative-popolari": {
+      "12-5-1_raccolta-di-firme-per-referendum-previste-dallo-statuto": {}
+    }
+  },
+  "T13_AFFARI_MILITARI": {
+    "13-1_leva-il-servizio-civile-sostitutivo": {
+      "13-1-1_lista-di-leva": {},
+      "13-1-2_liste-degli-eliminati-esentati": {}
+    },
+    "13-2_ruoli-matricolari": {
+      "13-2-1_ruoli-matricolari": {}
+    },
+    "13-3_caserme-alloggio-servizi-militari": {
+      "13-3-1_procedimenti-specifici": {}
+    },
+    "13-4_requisiti-per-utilita-militare": {
+      "13-4-1_procedimenti-specifici": {}
+    }
+  },
+  "T14_OGGETTI_DIVERSI": {
+    "14-1_varie": {
+      "14-1-1_documenti-non-riferibili-ad-altre-classi": {}
+    }
+  }
+}
