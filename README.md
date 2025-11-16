@@ -203,8 +203,7 @@ TITOLARIO = {
         },
         "1.17-associazionismo-e-partecipazione": {
             "1.17.1-associazioni-che-richiedono-iscrizione-all-albo": [],
-            "1.17.2-albo-delle-associazioni": []
-        }
+            "1.17.2-albo-delle-associazioni": {}
     },
     
     # TITOLO II - ORGANI DI GOVERNO, GESTIONE, CONTROLLO, CONSULENZA E GARANZIA
@@ -268,7 +267,7 @@ TITOLARIO = {
         "2.19-commissioni-dei-consigli-circoscrizionali": {},
         "2.20-segretari-delle-circoscrizioni": {},
         "2.21-commissario-ad-acta-delle-circoscrizioni": {},
-        "2.22-conferenza-del-presidente-di-quartiere": {}
+            "2.22-conferenza-del-presidente-di-quartiere": {}
     },
     
     # TITOLO III - RISORSE UMANE
